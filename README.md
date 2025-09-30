@@ -1,5 +1,7 @@
 Here is a N_body simulation of collision of galaxies with a method of cloud in cells (CIC).
 
+First, if you want more information about this project, check our report pdf "Rapport_M06-1.pdf" where there are more details about calculations and equations.
+
 You have here some fortran90 and python script. Here is a list of a little description for all scripts:
 
 -const.f90 : module comportant toutes les constantes de départ de notre projet
